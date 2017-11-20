@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ninja Girl", "Assembly-CSharp-firstpass.csproj", "{82F7BECB-B8EE-8387-5220-72BD09831C71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ninja Girl", "Assembly-CSharp.csproj", "{81ED7F8A-53D6-094E-D424-CBE0313E3C9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ninja Girl", "Assembly-CSharp-Editor-firstpass.csproj", "{22DE82D9-B6D8-2BDF-4EB3-1163D6AA4FD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82F7BECB-B8EE-8387-5220-72BD09831C71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82F7BECB-B8EE-8387-5220-72BD09831C71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82F7BECB-B8EE-8387-5220-72BD09831C71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82F7BECB-B8EE-8387-5220-72BD09831C71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81ED7F8A-53D6-094E-D424-CBE0313E3C9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81ED7F8A-53D6-094E-D424-CBE0313E3C9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81ED7F8A-53D6-094E-D424-CBE0313E3C9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81ED7F8A-53D6-094E-D424-CBE0313E3C9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22DE82D9-B6D8-2BDF-4EB3-1163D6AA4FD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22DE82D9-B6D8-2BDF-4EB3-1163D6AA4FD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22DE82D9-B6D8-2BDF-4EB3-1163D6AA4FD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22DE82D9-B6D8-2BDF-4EB3-1163D6AA4FD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
